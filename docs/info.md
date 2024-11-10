@@ -11,6 +11,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 If you turn on the first input, a 1 will be shown on the 7 segment display.
 
+## How to test
+
+Wire up the outputs to a 7 segment display, and send a ON signal on IN0.
+
 ## External hardware
 
 7 segment display
